@@ -17,7 +17,6 @@ public class Student implements Serializable{
     private String address;
 
     private String email;
-    
 
     public int getId() {
         return id;
