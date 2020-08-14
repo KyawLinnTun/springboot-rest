@@ -15,6 +15,7 @@ public class Student implements Serializable{
     private String name;
     private String phone;
     private String address;
+    private String nrc;
 
 
     public int getId() {
