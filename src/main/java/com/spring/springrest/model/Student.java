@@ -18,8 +18,7 @@ public class Student implements Serializable{
 
     private String email;
     
-    private String nrc;
-
+    
     public int getId() {
         return id;
     }
